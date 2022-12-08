@@ -1,0 +1,6 @@
+build_x64
+.idea
+.git
+cmake-build-*
+
+
